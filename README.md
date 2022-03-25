@@ -1,3 +1,6 @@
 # StudentManagementSystem
 
-Basic Management system using Thymeleaf and MySQL as database
+Basic Management system
+Front End --- Thymeleaf Templates, HTML, BootStrap4
+Back End  --- Java SpringBoot
+DataBase  --- MySQL & JPA
